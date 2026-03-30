@@ -24,23 +24,26 @@ A simple weather application that allows users to select a city and view real-ti
 
 ### 🛠️ Technologies Used
 
-* HTML
-* CSS
-* JavaScript
-* OpenWeather API
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+### 🟠OpenWeather API
 
 ---
 
 ### 📂 Project Structure
 
 ```
-weather-app/<br>
-│── index.html<br>
-│── snapshots<br>
-‎ ‎ │── snapshots<br>
+📁 main<br>
+│── index.html
+└── 📁 snapshot           #Demo Images & Videos
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ├── 1.png
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ├── 2.png
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ├── 3.png
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ├── 4.png
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ├── demo.gif     #Demo Video
 ```
 
----
 
 ### ⚙️ How It Works
 
@@ -60,7 +63,7 @@ weather-app/<br>
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/mdudhe2007/weather-app.git
 ```
 
 2. Open `index.html`
@@ -79,11 +82,14 @@ const apiKey = "YOUR_API_KEY";
 
 ### Main Interface
 
-![UI](./snapshot/ui.png)
+ <p align="center"> <img src="./snapshots/demo.gif" width="750"> </p>
 
 ### Weather Result
 
-![Weather](./snapshot/weather.png)
+ <p align="center"> <img src="./snapshots/1.png" width="720"> <br>
+    <p align="center"> <img src="./snapshots/2.png" width="720"> <br>
+       <p align="center"> <img src="./snapshots/3.png" width="720"> <br>
+          <p align="center"> <img src="./snapshots/4.png" width="720"> <br>
 
 ---
 
@@ -105,7 +111,8 @@ const apiKey = "YOUR_API_KEY";
 ---
 
 ## 👨‍💻 Author
-
+<P ALIGN="CENTER"><IMG SRC="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm8wYnloN3E1N3FuczV5MTI2Mmp2MjNtN282eGJ0M2Zld3JpcnAyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MBchOyOFof4tfmxrD8/giphy.gif" HEIGHT="160" WIDTH="160"></P>
+<p align="center"><B>DuduBoiii</B></p>
+<hr>
 Developed as a beginner-level project to understand API handling and JavaScript basics.
 
----
